@@ -1,0 +1,39 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "type": "Bid",
+      "state": "traded",
+      "created_at": "2017-06-30T02:14:45.368Z",
+      "market_id": "BTC-CLP",
+      "fee_currency": "BTC",
+      "price_type": "limit",
+      "limit": ["1728000.0", "CLP"],
+      "amount": ["0.001", "BTC"],
+      "original_amount": ["0.001", "BTC"],
+      "traded_amount": ["0.0", "BTC"],
+      "total_exchanged": ["0.0", "CLP"],
+      "paid_fee": ["0.0", "BTC"]
+    },
+    {
+      "id": 2,
+      "type": "Ask",
+      "state": "traded",
+      "created_at": "2017-03-10T21:11:42.131Z",
+      "market_id": "BTC-CLP",
+      "fee_currency": "CLP",
+      "price_type": "limit",
+      "limit": ["700000.0", "CLP"],
+      "amount": ["0.0", "BTC"],
+      "original_amount": ["5.0", "BTC"],
+      "traded_amount": ["5.0", "BTC"],
+      "total_exchanged": ["3625000.0", "CLP"],
+      "paid_fee": ["19937.5", "CLP"]
+    }
+  ],
+  "meta": {
+    "current_page": 1,
+    "total_count": 50,
+    "total_pages": 3
+  }
+}

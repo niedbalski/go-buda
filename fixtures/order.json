@@ -1,0 +1,17 @@
+{
+  "order": {
+    "id": 1,
+    "type": "Bid",
+    "state": "traded",
+    "created_at": "2017-06-30T02:14:45.368Z",
+    "market_id": "BTC-CLP",
+    "fee_currency": "BTC",
+    "price_type": "limit",
+    "limit": ["1728000.0", "CLP"],
+    "amount": ["0.001", "BTC"],
+    "original_amount": ["0.001", "BTC"],
+    "traded_amount": ["0.0", "BTC"],
+    "total_exchanged": ["0.0", "CLP"],
+    "paid_fee": ["0.0", "BTC"]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "markets": [
+    {
+      "id": "BTC-CLP",
+      "name": "btc-clp",
+      "base_currency": "BTC",
+      "quote_currency": "CLP",
+      "minimum_order_amount": ["0.001", "BTC"]
+    },
+    {
+      "id": "BTC-COP",
+      "name": "btc-cop",
+      "base_currency": "BTC",
+      "quote_currency": "COP",
+      "minimum_order_amount": ["0.001", "BTC"]
+    }
+  ]
+}

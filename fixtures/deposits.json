@@ -1,0 +1,23 @@
+{
+  "deposits": [
+    {
+      "id": 1,
+      "created_at": "2017-06-09T02:05:24.374Z",
+      "amount": ["0.4", "BTC"],
+      "currency": "BTC",
+      "fee": ["0.0", "BTC"],
+      "state": "confirmed",
+      "deposit_data": {
+        "type": "btc_deposit_data",
+        "address": "mo366JJaDU5B1hmnPygyjQVMbUKnBC7DsY",
+        "tx_hash":
+        "51eaf04f9dbbc1417dc97e789edd0c37ecda88bac490434e367ea81b71b7b015"
+      }
+    }
+  ],
+  "meta": {
+    "current_page": 1,
+    "total_count": 50,
+    "total_pages": 3
+  }
+}

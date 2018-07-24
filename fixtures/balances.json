@@ -1,0 +1,19 @@
+{
+  "balances": [
+    {
+      "id": "BTC",
+      "amount": ["11.5274815", "BTC"],
+      "available_amount": ["10.5274815", "BTC"],
+      "frozen_amount": ["1.0", "BTC"],
+      "pending_withdraw_amount": ["0.0", "BTC"]
+    },
+    {
+      "id": "CLP",
+      "amount": ["7349002.46", "CLP"],
+      "available_amount": ["7349002.46", "CLP"],
+      "frozen_amount": ["0.0", "CLP"],
+      "pending_withdraw_amount": ["0.0", "CLP"]
+    }
+  ]
+}
+

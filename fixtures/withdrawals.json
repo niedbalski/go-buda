@@ -1,0 +1,23 @@
+{
+  "withdrawals": [
+    {
+      "id": 1,
+      "created_at": "2017-11-11T17:17:57.845Z",
+      "state": "confirmed",
+      "amount": ["0.35", "BTC"],
+      "fee": ["0.00001", "BTC"],
+      "currency": "BTC",
+      "withdrawal_data": {
+        "type": "btc_withdrawal_data",
+        "target_address": "mo366JJaDU5B1hmnPygyjQVMbUKnBC7DsY",
+        "tx_hash":
+        "51eaf04f9dbbc1417dc97e789edd0c37ecda88bac490434e367ea81b71b7b015"
+      }
+    }
+  ],
+  "meta": {
+    "current_page": 1,
+    "total_count": 50,
+    "total_pages": 3
+  }
+}
